@@ -88,7 +88,7 @@ These files should be self sufficient. Someone with no exposure to the problem s
     notebook files with and Introduction and conclude it with a Conclusions section**
       - We encourage you to produce      **meaningful and clear plots** adjusted to the data you want to present and to make proper use of   font(size), labels, contrasts, legends  and colors to make memorable the story you want to tell audience.
 - **A presentation deck (slides)** containing your analysis and your visualizations. You will have to present using a slideshow or a complete workable programme.<br>
-- **DATA <br>
+- **DATA** <br>
 
 ## Schedule 
 
