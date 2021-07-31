@@ -72,8 +72,6 @@ Because the project is outlined along 4 themes, each theme has slightly differen
 
 
 
-
-
 # Necessary Deliverables
 
 * **Project repository** <br>
@@ -111,8 +109,7 @@ Presentations will be **EXACTLY** 10 minutes long, with 5 additional minutes for
 * Ask for help but also remember: Google is your friend!
 * Start simple! 
 * Learn about your subject and understand what research has been done already.
-* You *can* use data from the projects your partners did in the last weeks. You can't use your own project.
-* Before making a graph, think about what you want to represent.
+* You *can* use data from previous projects. 
 * Use the notebook and markdown to guide the reader through your analysis and tell the story
 * Explain what insight or information is inferred from your visualizations
 * Make extensive use of comments, docstrings and markdown
