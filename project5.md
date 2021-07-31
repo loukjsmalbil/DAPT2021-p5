@@ -82,7 +82,7 @@ This repository must include:
    - A **.gitignore**  file that blocks any images and datafiles, 
    - A **README file** to guide the reader through the project and files and also have a functional file structure. The README file should clearly include which topic you chose and which are the questions you would like to find an answer to. 
    - **A data folder** with an additional **README.md file** inside that explains the data set. (Without README file in the data folder you will not be able to push the folder because empty folders are not accepted by git)
-   - **Python files** and **Jupyter notebooks**<br>
+   - **Python files** and/or **Jupyter notebooks**<br>
 These files should be self sufficient. Someone with no exposure to the problem should be able to read the notebooks and understand your analysis. Make sure your notebooks look clean and well documented by making proper use of comments, docstrings and markdowns to tell your story. 
       -  **We strongly suggest to start the 
     notebook files with and Introduction and conclude it with a Conclusions section**
@@ -93,7 +93,7 @@ These files should be self sufficient. Someone with no exposure to the problem s
 ## Schedule 
 
 
-*November 31th July*
+*31th July*
 * Formal Introduction and start of the Project
 
 *August 12th* 
