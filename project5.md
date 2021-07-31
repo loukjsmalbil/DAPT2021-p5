@@ -92,7 +92,7 @@ These files should be self sufficient. Someone with no exposure to the problem s
 The following deliverables should **NOT be pushed** to your repository
 but **stored on your folder** [here](https://drive.google.com/drive/folders/1rg6Wrmvp996TZaG4nkhMi0Kv0anTNQMQ?usp=sharing)
 
-- **A presentation deck (slides)** containing your analysis and your visualizations. You will have to present using a slideshow or a complete workable programme, **NOT A JUPYTER NOTEBOOK.** <br>
+- **A presentation deck (slides)** containing your analysis and your visualizations. You will have to present using a slideshow or a complete workable programme.<br>
 - **DATA <br>
 Please do not upload any data (or SQL database) to the repository** but place a link to the data in your jupyter notebook as we usually do. You can then ask the reader in the notebook to download the data and place them locally in the provided empty data folder (with README file in it) Remember to use relative paths in the notebook. The link in the notebook can point to the original data set or to your data folder on google drive [here](https://drive.google.com/drive/folders/1rg6Wrmvp996TZaG4nkhMi0Kv0anTNQMQ?usp=sharing) <br>
 
